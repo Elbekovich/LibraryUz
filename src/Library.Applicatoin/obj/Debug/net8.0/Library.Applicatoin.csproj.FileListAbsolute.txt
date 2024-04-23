@@ -1,0 +1,11 @@
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Applicatoin\bin\Debug\net8.0\Library.Applicatoin.deps.json
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Applicatoin\bin\Debug\net8.0\Library.Applicatoin.dll
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Applicatoin\bin\Debug\net8.0\Library.Applicatoin.pdb
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Applicatoin\obj\Debug\net8.0\Library.Applicatoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Applicatoin\obj\Debug\net8.0\Library.Applicatoin.AssemblyInfoInputs.cache
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Applicatoin\obj\Debug\net8.0\Library.Applicatoin.AssemblyInfo.cs
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Applicatoin\obj\Debug\net8.0\Library.Applicatoin.csproj.CoreCompileInputs.cache
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Applicatoin\obj\Debug\net8.0\Library.Applicatoin.dll
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Applicatoin\obj\Debug\net8.0\refint\Library.Applicatoin.dll
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Applicatoin\obj\Debug\net8.0\Library.Applicatoin.pdb
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Applicatoin\obj\Debug\net8.0\ref\Library.Applicatoin.dll

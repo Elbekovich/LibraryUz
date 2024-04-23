@@ -1,0 +1,11 @@
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Persistance\bin\Debug\net8.0\Library.Persistance.deps.json
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Persistance\bin\Debug\net8.0\Library.Persistance.dll
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Persistance\bin\Debug\net8.0\Library.Persistance.pdb
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Persistance\obj\Debug\net8.0\Library.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Persistance\obj\Debug\net8.0\Library.Persistance.AssemblyInfoInputs.cache
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Persistance\obj\Debug\net8.0\Library.Persistance.AssemblyInfo.cs
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Persistance\obj\Debug\net8.0\Library.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Persistance\obj\Debug\net8.0\Library.Persistance.dll
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Persistance\obj\Debug\net8.0\refint\Library.Persistance.dll
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Persistance\obj\Debug\net8.0\Library.Persistance.pdb
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.Persistance\obj\Debug\net8.0\ref\Library.Persistance.dll

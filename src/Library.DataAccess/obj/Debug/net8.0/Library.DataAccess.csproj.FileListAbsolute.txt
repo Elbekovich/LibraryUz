@@ -1,0 +1,11 @@
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.DataAccess\bin\Debug\net8.0\Library.DataAccess.deps.json
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.DataAccess\bin\Debug\net8.0\Library.DataAccess.dll
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.DataAccess\bin\Debug\net8.0\Library.DataAccess.pdb
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.DataAccess\obj\Debug\net8.0\Library.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.DataAccess\obj\Debug\net8.0\Library.DataAccess.AssemblyInfoInputs.cache
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.DataAccess\obj\Debug\net8.0\Library.DataAccess.AssemblyInfo.cs
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.DataAccess\obj\Debug\net8.0\Library.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.DataAccess\obj\Debug\net8.0\Library.DataAccess.dll
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.DataAccess\obj\Debug\net8.0\refint\Library.DataAccess.dll
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.DataAccess\obj\Debug\net8.0\Library.DataAccess.pdb
+C:\Users\jumakulov\Desktop\LibraryUz.Backend\LibraryUz\src\Library.DataAccess\obj\Debug\net8.0\ref\Library.DataAccess.dll
